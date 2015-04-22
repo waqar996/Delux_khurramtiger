@@ -1,0 +1,191 @@
+﻿body {
+    padding:0;
+    margin:0;
+}
+.first-navi {
+background-color:#2a2e33;
+overflow:auto;
+position: fixed;
+width: 100%;
+z-index: 109;
+border-bottom: 2px solid #dfdfdf;
+}
+.cross-nav {
+background:0 !important;
+border:0 !important;
+margin:0 !important;
+
+}
+
+
+.hotel h1{
+font-family: Arial;
+font-size: 24px;
+text-align: center;
+color: #fff;
+letter-spacing: 0px;
+
+}
+.hotel {
+margin-top:-11px;
+}
+    .hotel h1 span {
+    color:yellow;
+    
+    }
+        .cla {
+        font-family:Arial;
+        color:#fff;
+        font-size:12px;
+        
+        
+        }
+
+.navi-ulimum {
+overflow:auto;
+
+}
+
+    .navi-ulimum {
+    
+    list-style:none;
+    padding:0px 0px 0px 0px; 
+  
+
+    
+    }
+.navi-ulimum  li {
+display:inline-block;
+
+
+margin:0;
+border-top:2px solid #2a2e33;
+padding: 8px 10px 8px 10px;
+
+
+}
+    .navi-ulimum  li a {
+    
+    text-decoration:none;
+    font-family:Arial;
+    font-size:16px;
+    color:#fff;
+   display:inline-block;
+  
+   }
+  .navi-ulimum  li:hover {
+        background-color:#1e2329;
+       border-bottom: 0px;
+border-top-color: #ffd700;
+}
+.second-navi-bg {
+background-color:#00ccff;
+}
+.second-heading {
+width:100%;
+margin-top:100px;
+margin-bottom:100px;
+}
+    .second-heading h2 {
+    font-family:Arial;
+    font-size:16px;
+    text-align:center;
+    color:#fff;
+    
+    
+    }
+     .second-heading h2 {
+    font-family:Arial;
+    
+    text-align:center;
+    color:#fff;
+       font-size:30px;
+    
+    }
+      .second-heading h3 {
+    font-family:Arial;
+    font-size:22px;
+    text-align:center;
+    color:#fff;
+    
+    
+    }
+       .second-heading h4 {
+    font-family:Arial;
+    font-size:16px;
+    text-align:center;
+    color:#fff;
+    padding-top:26px;
+    
+    
+    }
+    .second-heading p {
+    color:#fff;
+    text-align:center;
+    
+    } 
+.navbar-toggle {
+    background:#2a2e33 !important;
+}
+.hope-cros-mg {
+margin-top: 9px !important;
+}
+
+.form-corec {
+padding: 10px 0px 18px 53px;
+}
+
+
+.dat {
+background: url(images/dat.png) no-repeat !important;
+padding-left: 35px !important;
+background-position: 6% !important;
+background-color: red !important;
+
+
+}
+
+.arr {
+background: url(images/arr.png) no-repeat !important;
+padding-left: 35px !important;
+background-position: 1% !important;
+background-color: red !important;
+}
+
+.paina-pera {
+font-family:Arial;
+color:yellow;
+font-size:16px;
+text-transform:uppercase;
+
+
+}
+
+
+.shadow {
+background:url("images/shadow.png") no-repeat;
+height: 40px;
+margin-top: 60px;
+width:100%;
+
+}
+
+
+.second-container-hedaing {
+margin-top:30px;
+}
+
+    .second-container-hedaing h2 {
+    font-family:'Myriad Pro' sans-serif;
+    font-size:32px;
+    color:#030303;
+      text-align:center;
+     
+   }
+
+    .second-container-hedaing p {
+    font-family:Arial;
+    color:#020202;
+    font-size:14px;
+   
+    }
